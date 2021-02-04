@@ -4,6 +4,29 @@
 npx react-native init MyApp --template react-native-template-organize
 ```
 
+## 使用的库
+
+### 路由导航
+
+- [react-navigation v5](https://reactnavigation.org/docs/getting-started)
+
+  - @react-navigation/stack
+
+  - @react-navigation/bottom-tabs
+
+  - react-native-safe-area-context
+
+### 推荐的库
+
+- 已安装
+  - babel-plugin-root-import 路径别名
+- 未安装
+  - react-native-vector-icons
+
+
+
+## TypeScript
+
 基于react-native-template-typescript创建
 
 ```sh
