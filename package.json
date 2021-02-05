@@ -9,6 +9,10 @@
     "template",
     "template.config.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgh970312/react-native-template-organize"
+  },
   "keywords": [
     "react-native",
     "typescript",
@@ -16,5 +20,6 @@
     "boilerplate"
   ],
   "author": "wgh970312",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/wgh970312/react-native-template-organize/blob/master/README.md"
 }
